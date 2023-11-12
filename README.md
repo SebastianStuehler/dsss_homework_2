@@ -1,2 +1,2 @@
 # dsss_homework_2
-This repository contains the files of the 2nd DSSS homework.
+This repository contains all files necessary for the 2nd DSSS homework.
